@@ -1,0 +1,33 @@
+_repo: The-Bible-and-Life_41520
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41520-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hughes, Edwin Holt
+    birthdate: 1866
+    deathdate: 1950
+    gutenberg_agent_id: '41216'
+    url: http://www.gutenberg.org/2009/agents/41216
+description: Prominent Methodist thinker and preacher Edwin Holt Hughes made a number
+  of significant contributions to American religious thought throughout the early
+  twentieth century. This easy-to-read volume collects Hughes' opinions and practical
+  tips on incorporating the teachings of the Bible into everyday life.
+gutenberg_issued: '2012-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41520'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Appreciation'
+- !lcc 'BS'
+tableOfContents: Introduction -- Foreword -- Biographical note -- The human outline
+  -- The Bible and life -- The Bible and man -- The Bible and home -- The Bible and
+  education -- The Bible and work -- The Bible and wealth -- The Bible and sorrow
+  -- The Bible and practice.
+title: The Bible and Life
+url: http://www.gutenberg.org/ebooks/41520
